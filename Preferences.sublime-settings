@@ -2,7 +2,7 @@
   "auto_complete_commit_on_tab": true,
   "bold_folder_labels": true,
   "color_scheme": "Packages/Themes/GitHub.tmTheme",
-  "detect_indentation": false,
+  "detect_indentation": true,
   "detect_slow_plugins": false,
   "draw_white_space": "all",
   "ensure_newline_at_eof_on_save": true,
@@ -53,13 +53,14 @@
     "site"
   ],
   "font_face": "Source Code Pro",
-  "font_size": 12.0,
   "font_options":
   [
     "subpixel_antialias"
   ],
+  "font_size": 12.0,
   "highlight_line": true,
   "highlight_modified_tabs": true,
+  "indent_to_bracket": true,
   "ignored_packages":
   [
     "Vintage"
