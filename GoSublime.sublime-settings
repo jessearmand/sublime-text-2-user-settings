@@ -1,0 +1,4 @@
+{
+  "tab_size": 4,
+  "env": { "GOPATH": "$HOME/Development/go", "GOROOT": "/usr/local/opt/go", "PATH": "$GOPATH/bin:$PATH" }
+}
